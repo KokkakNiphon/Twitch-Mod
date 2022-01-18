@@ -1,4 +1,4 @@
-# Twitch-Mod
+# Jinlamang : Twitch-Mod
 This respository is for storing the project I did during live at https://www.twitch.tv/jinlamang
 
 Right now there're 2 project
