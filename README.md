@@ -3,8 +3,6 @@ This respository is for storing the project I did during live at https://www.twi
 
 ถ้าสนใจอยากให้เขียนโปรแกรมแนวไหน กด follow ในทวิสแล้วเข้ามาคุยกันได้นะครับ ผมจะไลฟ์เขียนโค้ดทุกวันเสาร์
 
-Right now there're 2 project
-
 ---------------------------
 # Avatar Animator
 - A program that detect your voice and animate the avatar.
