@@ -1,5 +1,6 @@
 # Jinlamang : Twitch-Mod
 This respository is for storing the project I did during live at https://www.twitch.tv/jinlamang
+ถ้าสนใจอยากให้เขียนโปรแกรมแนวไหน กด follow ในทวิสแล้วเข้ามาคุยกันได้นะครับ ผมจะไลฟ์เขียนโค้ดทุกวันเสาร์
 
 Right now there're 2 project
 
