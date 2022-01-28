@@ -154,7 +154,7 @@ def detect_sound(indata, frames, time, status):
     
     global is_talking
     global engine    
-    if (volume_norm > 9 and is_talking == False):
+    if (volume_norm > 9 and is_talking == False): #adjust the magic number to change the sensitivity (lower = more sensitive)
         is_talking = True
         engine._scene.UpdateAvatarVisual(is_talking)
     elif (volume_norm <= 9 and is_talking == True):
