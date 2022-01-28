@@ -4,6 +4,13 @@ This respository is for storing the project I did during live at https://www.twi
 ถ้าสนใจอยากให้เขียนโปรแกรมแนวไหน กด follow ในทวิสแล้วเข้ามาคุยกันได้นะครับ ผมจะไลฟ์เขียนโค้ดทุกวันเสาร์
 
 ---------------------------
+# Huntress Minigame
+- A program that allow chat to play minigame on your stream!
+
+![image](https://user-images.githubusercontent.com/42549210/151499626-5b699fff-873b-4d03-89b1-e06070422a87.png)
+---------------------------
+
+
 # Avatar Animator
 - A program that detect your voice and animate the avatar.
 
