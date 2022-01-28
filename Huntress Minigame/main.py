@@ -437,7 +437,7 @@ class Bot(commands.Bot):
 
     def __init__(self):
         # Initialise our Bot with our access token, prefix and a list of channels to join on boot...
-        super().__init__(token='ntv5w3631gh7c8yvjdzvfz2008lymp', nick='HuntressMinigame', prefix='!', initial_channels=['Jinlamang'])
+        super().__init__(token='[Your Token]', nick='HuntressMinigame', prefix='!', initial_channels=['[Your Channel Name]'])
 
     async def event_ready(self):
         # We are logged in and ready to chat and use commands...
