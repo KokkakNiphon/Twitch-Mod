@@ -15,6 +15,11 @@ This repository is for storing the project I did during live at https://www.twit
 - A program that detect your voice and animate the avatar.
 
 ![image](https://user-images.githubusercontent.com/42549210/149851584-f5c7b49b-f2f7-4b82-9204-8721fd8ba9f4.png)
+
+![image](https://user-images.githubusercontent.com/42549210/152308348-61c9b950-a032-42b3-bd19-0f063efa95db.png)
+
+![image](https://user-images.githubusercontent.com/42549210/152308373-2b3cd9e1-678e-4cf7-bafd-79338ad08ad3.png)
+
 ---------------------------
 
 
